@@ -1,0 +1,31 @@
+{
+  "name": "ss",
+  "displayName": "recommendation-extension",
+  "description": "final version of extension",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "activationEvents": [
+    "onLanguage:plaintext"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "languages": [
+      {
+        "id": "plaintext",
+        "aliases": ["Plain Text", "plaintext"],
+        "extensions": [".txt"]
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.80.0",
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,60 @@
+unix_timestamp,adversity,suggestion_preference,suggestion_relevance,event_type,suggestion_text,suggestion_rating
+1755520559999,,,,suggestion_shown,"rej prócz",
+1755520575127,,,,ignored_no_reveal,"rej prócz","2  Slightly less frequent"
+1755520595837,2,,3,submit,,
+1755520600023,,,,suggestion_shown,"cz tych, c",
+1755520612182,,,,reject_clicked,"cz tych, c","2  Slightly less frequent"
+1755520620039,,,,suggestion_shown,"tych, co r",
+1755520629643,,,,accept_clicked,"tych, co r","4  Slightly more frequent"
+1755520653610,4,,4,submit,,
+1755520660068,,,,suggestion_shown,"m nie wyl",
+1755520680081,,,,suggestion_shown,"amilla dz",
+1755520686156,,,,ignored_no_reveal,"amilla dz","2  Slightly less frequent"
+1755520727159,4,,2,submit,,
+1755520740108,,,,suggestion_shown,"ę, jej pl",
+1755520744503,,,,ignored_no_reveal_pref_prompt_dismissed,"ę, jej pl",
+1755520767095,3,,1,submit,,
+1755520780159,,,,suggestion_shown,"epędzi z",
+1755520791056,,,,accept_clicked,"epędzi z","3  About the same"
+1755520800168,,,,suggestion_shown,"grodów j",
+1755520808761,,,,accept_clicked,"grodów j","3  About the same"
+1755520829188,4,,1,submit,,
+1755520840184,,,,suggestion_shown,"ów jego",
+1755520847523,,,,accept_clicked,"ów jego","3  About the same"
+1755520860194,,,,suggestion_shown,"a,",
+1755520866719,,,,accept_clicked,"a,","4  Slightly more frequent"
+1755520886221,2,,2,submit,,
+1755520900216,,,,suggestion_shown,"i ją do",
+1755520906640,,,,accept_clicked,"i ją do","4  Slightly more frequent"
+1755520920222,,,,suggestion_shown,"pierwsz",
+1755520925770,,,,accept_clicked,"pierwsz","5  Moderately more frequent"
+1755520947586,2,,4,submit,,
+1755520960229,,,,suggestion_shown,"wywlek",
+1755520965165,,,,accept_clicked,"wywlek","5  Moderately more frequent"
+1755520980231,,,,suggestion_shown,"a.",
+1755520983867,,,,ignored_no_reveal_pref_prompt_dismissed,"a.",
+1755521008549,2,,2,submit,,
+1755521020249,,,,suggestion_shown,"Idź za",
+1755521027416,,,,accept_clicked,"Idź za","6  Much more frequent"
+1755521040259,,,,suggestion_shown,"zewod",
+1755521047026,,,,accept_clicked,"zewod","5  Moderately more frequent"
+1755521069756,4,,4,submit,,
+1755521080283,,,,suggestion_shown,"eprow",
+1755521088375,,,,accept_clicked,"eprow","5  Moderately more frequent"
+1755521100295,,,,suggestion_shown,"zez k",
+1755521106930,,,,accept_clicked,"zez k","5  Moderately more frequent"
+1755521127015,2,,4,submit,,
+1755521140318,,,,suggestion_shown,"acz",
+1755521150523,,,,accept_clicked,"acz","5  Moderately more frequent"
+1755521160329,,,,suggestion_shown,"ozpa",
+1755521167451,,,,accept_clicked,"ozpa","5  Moderately more frequent"
+1755521188941,2,,4,submit,,
+1755521200346,,,,suggestion_shown,"jrzy",
+1755521207948,,,,accept_clicked,"jrzy","5  Moderately more frequent"
+1755521220359,,,,suggestion_shown,"otę",
+1755521227618,,,,accept_clicked,"otę","5  Moderately more frequent"
+1755521245475,2,,4,submit,,
+1755521260423,,,,suggestion_shown,"ą w",
+1755521267135,,,,accept_clicked,"ą w","5  Moderately more frequent"
+1755521280437,,,,suggestion_shown,",",
+1755521289034,,,,accept_clicked,",","5  Moderately more frequent"

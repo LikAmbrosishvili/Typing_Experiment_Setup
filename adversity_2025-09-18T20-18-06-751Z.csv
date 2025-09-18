@@ -1,0 +1,6 @@
+unix_timestamp,adversity,suggestion_preference,suggestion_relevance,event_type,suggestion_text,suggestion_rating
+1758226706759,,,,suggestion_shown,"B",
+1758226715371,,,,accept_clicked,"B","1  Moderately less frequent"
+1758226726766,,,,suggestion_shown,"ó",
+1758226733269,,,,accept_clicked,"ó","3  About the same"
+1758226748948,3,,3,submit,,

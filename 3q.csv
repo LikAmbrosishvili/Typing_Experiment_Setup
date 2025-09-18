@@ -1,0 +1,34 @@
+unix_timestamp,adversity,suggestion_preference,suggestion_relevance,event_type,suggestion_text,suggestion_rating
+1755522619000,,,,suggestion_shown,"a któ",
+1755522623845,,,,ignored_no_reveal,"a któ","1  Moderately less frequent"
+1755522639010,,,,suggestion_shown,"órej",
+1755522645762,,,,accept_clicked,"órej","3  About the same"
+1755522666538,1,,5,submit,,
+1755522725090,1,,3,submit,,
+1755522739044,,,,suggestion_shown,", Kam",
+1755522745009,,,,ignored_no_reveal,", Kam","3  About the same"
+1755522759055,,,,suggestion_shown,"za.",
+1755522761762,,,,ignored_no_reveal_pref_prompt_dismissed,"za.",
+1755522788285,1,,4,submit,,
+1755522819086,,,,suggestion_shown,"zepęd",
+1755522823480,,,,ignored_no_reveal,"zepęd","1  Moderately less frequent"
+1755522845257,4,,2,submit,,
+1755522859103,,,,suggestion_shown,"robra",
+1755522865581,,,,reject_clicked,"robra","1  Moderately less frequent"
+1755522879118,,,,suggestion_shown,"ońcu",
+1755522884084,,,,ignored_no_reveal,"ońcu","0  Much less frequent"
+1755522904260,4,,1,submit,,
+1755522968051,1,,3,submit,,
+1755522979171,,,,suggestion_shown,"dobra",
+1755522984777,,,,reject_clicked_pref_prompt_dismissed,"dobra",
+1755523024979,4,,1,submit,,
+1755523039213,,,,suggestion_shown,"wiecz",
+1755523044730,,,,reject_clicked,"wiecz","0  Much less frequent"
+1755523059228,,,,suggestion_shown,".",
+1755523064403,,,,reject_clicked,".","0  Much less frequent"
+1755523083107,4,,1,submit,,
+1755523119255,,,,suggestion_shown,"szysz",
+1755523124531,,,,reject_clicked,"szysz","0  Much less frequent"
+1755523146148,5,,1,submit,,
+1755523159289,,,,suggestion_shown,"Tam s",
+1755523175547,,,,ignored_no_reveal_pref_prompt_dismissed,"Tam s",

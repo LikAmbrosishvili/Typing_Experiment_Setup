@@ -1,0 +1,46 @@
+unix_timestamp,adversity,suggestion_preference,suggestion_relevance,event_type,suggestion_text,suggestion_rating
+1755518818458,,,,suggestion_shown,"ó",
+1755518828316,,,,accept_clicked,"ó","6  Much more frequent"
+1755518838460,,,,suggestion_shown,"c",
+1755518845156,,,,accept_clicked,"c","6  Much more frequent"
+1755518866738,3,,3,submit,,
+1755518878485,,,,suggestion_shown,"K",
+1755518891462,,,,reject_clicked,"K","6  Much more frequent"
+1755518898499,,,,suggestion_shown,"dz",
+1755518906700,,,,accept_clicked,"dz","6  Much more frequent"
+1755518926472,3,,3,submit,,
+1755518938530,,,,suggestion_shown,"cz",
+1755518946259,,,,accept_clicked,"cz","6  Much more frequent"
+1755518958531,,,,suggestion_shown,"ws",
+1755518964096,,,,accept_clicked,"ws","6  Much more frequent"
+1755518985914,2,,4,submit,,
+1755519018555,,,,suggestion_shown,"ra,",
+1755519025068,,,,accept_clicked,"ra,","6  Much more frequent"
+1755519045435,1,,3,submit,,
+1755519058578,,,,suggestion_shown,"ci",
+1755519064179,,,,accept_clicked,"ci","6  Much more frequent"
+1755519078585,,,,suggestion_shown,"Ską",
+1755519086486,,,,accept_clicked,"Ską","6  Much more frequent"
+1755519105417,1,,4,submit,,
+1755519118598,,,,suggestion_shown,"wywl",
+1755519125083,,,,accept_clicked,"wywl","6  Much more frequent"
+1755519138611,,,,suggestion_shown,"twoj",
+1755519145769,,,,accept_clicked,"twoj","6  Much more frequent"
+1755519163920,2,,6,submit,,
+1755519178640,,,,suggestion_shown,"prze",
+1755519185602,,,,accept_clicked,"prze","6  Much more frequent"
+1755519198647,,,,suggestion_shown,"eprow",
+1755519205932,,,,accept_clicked,"eprow","6  Much more frequent"
+1755519223069,1,,6,submit,,
+1755519258679,,,,suggestion_shown,"z roz",
+1755519268647,,,,accept_clicked,"z roz","6  Much more frequent"
+1755519283294,1,,6,submit,,
+1755519298697,,,,suggestion_shown,"staro",
+1755519304775,,,,accept_clicked,"staro","6  Much more frequent"
+1755519318713,,,,suggestion_shown,"rzysz",
+1755519325485,,,,accept_clicked,"rzysz","6  Much more frequent"
+1755519343250,1,,5,submit,,
+1755519358733,,,,suggestion_shown,"rć dru",
+1755519364971,,,,accept_clicked,"rć dru","6  Much more frequent"
+1755519378750,,,,suggestion_shown,",",
+1755519385725,,,,accept_clicked,",","6  Much more frequent"

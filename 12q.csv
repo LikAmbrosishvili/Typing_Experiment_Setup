@@ -1,0 +1,33 @@
+unix_timestamp,adversity,suggestion_preference,suggestion_relevance,event_type,suggestion_text,suggestion_rating
+1755610732387,,,,suggestion_shown,"y",
+1755610745683,,,,reject_clicked,"y","2  Slightly less frequent"
+1755610752404,,,,suggestion_shown,"Umarl",
+1755610759058,,,,ignored_no_reveal,"Umarl","1  Moderately less frequent"
+1755610786320,2,,1,submit,,
+1755610792413,,,,suggestion_shown,"łą wilcz",
+1755610796335,,,,ignored_no_reveal,"łą wilcz","1  Moderately less frequent"
+1755610812424,,,,suggestion_shown,"ę wszetec",
+1755610818794,,,,reject_clicked,"ę wszetec","1  Moderately less frequent"
+1755610841386,4,,1,submit,,
+1755610852448,,,,suggestion_shown,"końcu w tr",
+1755610858264,,,,ignored_no_reveal,"końcu w tr","0  Much less frequent"
+1755610872460,,,,suggestion_shown,"kł",
+1755610878972,,,,accept_clicked,"kł","1  Moderately less frequent"
+1755610899889,3,,1,submit,,
+1755610912470,,,,suggestion_shown,"iat",
+1755610921722,,,,accept_clicked,"iat","1  Moderately less frequent"
+1755610932476,,,,suggestion_shown,"w",
+1755610938724,,,,reject_clicked,"w","1  Moderately less frequent"
+1755610959944,2,,2,submit,,
+1755610972495,,,,suggestion_shown,"od",
+1755610981133,,,,accept_clicked,"od","1  Moderately less frequent"
+1755610992503,,,,suggestion_shown,"zez kr",
+1755610997669,,,,ignored_no_reveal,"zez kr","1  Moderately less frequent"
+1755611018679,3,,1,submit,,
+1755611032530,,,,suggestion_shown,"zykiem,",
+1755611039295,,,,accept_clicked,"zykiem,","2  Slightly less frequent"
+1755611052537,,,,suggestion_shown,"ytne ujrz",
+1755611058634,,,,accept_clicked,"ytne ujrz","2  Slightly less frequent"
+1755611078099,2,,2,submit,,
+1755611092558,,,,suggestion_shown,"i",
+1755611097266,,,,reject_clicked,"i","1  Moderately less frequent"

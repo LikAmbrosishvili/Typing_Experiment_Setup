@@ -1,0 +1,64 @@
+unix_timestamp,adversity,suggestion_preference,suggestion_relevance,event_type,suggestion_text,suggestion_rating
+1755527534479,,,,suggestion_shown,"Dla której",
+1755527549872,,,,accept_clicked,"Dla której","2  Slightly less frequent"
+1755527596345,2,,5,submit,,
+1755527614501,,,,suggestion_shown,"cza,",
+1755527633995,,,,accept_clicked,"cza,","1  Moderately less frequent"
+1755527645032,2,,4,submit,,
+1755527654511,,,,suggestion_shown,"arli Turnu",
+1755527668714,,,,accept_clicked,"arli Turnu","4  Slightly more frequent"
+1755527674520,,,,suggestion_shown,"s, Kamill",
+1755527689966,,,,accept_clicked,"s, Kamill","1  Moderately less frequent"
+1755527708873,3,,1,submit,,
+1755527714548,,,,suggestion_shown,"s, Kamill",
+1755527722223,,,,ignored_no_reveal,"s, Kamill","1  Moderately less frequent"
+1755527734551,,,,suggestion_shown,"dziewicza",
+1755527742969,,,,accept_clicked,"dziewicza","6  Much more frequent"
+1755527763345,2,,4,submit,,
+1755527774579,,,,suggestion_shown,"ilczycę,",
+1755527785503,,,,accept_clicked,"ilczycę,","5  Moderately more frequent"
+1755527794589,,,,suggestion_shown,"mię wsze",
+1755527805298,,,,accept_clicked,"mię wsze","5  Moderately more frequent"
+1755527823372,2,,4,submit,,
+1755527834603,,,,suggestion_shown,"pędzi z",
+1755527840718,,,,accept_clicked,"pędzi z","6  Much more frequent"
+1755527854606,,,,suggestion_shown,"a chrob",
+1755527862870,,,,accept_clicked,"a chrob","5  Moderately more frequent"
+1755527879990,2,,4,submit,,
+1755527894634,,,,suggestion_shown,"mfie st",
+1755527901456,,,,accept_clicked,"mfie st","6  Much more frequent"
+1755527914648,,,,suggestion_shown,"ją do p",
+1755527920988,,,,accept_clicked,"ją do p","5  Moderately more frequent"
+1755527942953,2,,4,submit,,
+1755527954663,,,,suggestion_shown,"za zaz",
+1755527965600,,,,accept_clicked,"za zaz","3  About the same"
+1755527974667,,,,suggestion_shown,"iat ją",
+1755527981695,,,,accept_clicked,"iat ją","3  About the same"
+1755528003937,3,,3,submit,,
+1755528014693,,,,suggestion_shown,"az ci",
+1755528029341,,,,accept_clicked,"az ci","4  Slightly more frequent"
+1755528034705,,,,suggestion_shown,"zę dl",
+1755528043524,,,,accept_clicked,"zę dl","4  Slightly more frequent"
+1755528060960,1,,4,submit,,
+1755528074727,,,,suggestion_shown,"za mn",
+1755528086072,,,,accept_clicked,"za mn","2  Slightly less frequent"
+1755528094737,,,,suggestion_shown,"dę tw",
+1755528101469,,,,accept_clicked,"dę tw","4  Slightly more frequent"
+1755528118762,3,,4,submit,,
+1755528192305,1,,2,submit,,
+1755528246073,3,,1,submit,,
+1755528254795,,,,suggestion_shown,"posł",
+1755528270983,,,,reject_clicked,"posł","0  Much less frequent"
+1755528274804,,,,suggestion_shown,"osły",
+1755528284363,,,,reject_clicked,"osły","0  Much less frequent"
+1755528298833,3,,0,submit,,
+1755528314821,,,,suggestion_shown,"czy",
+1755528327947,,,,reject_clicked,"czy","2  Slightly less frequent"
+1755528334826,,,,suggestion_shown,"czy",
+1755528340430,,,,reject_clicked,"czy","1  Moderately less frequent"
+1755528362472,4,,0,submit,,
+1755528374854,,,,suggestion_shown,"jrz",
+1755528382896,,,,reject_clicked,"jrz","2  Slightly less frequent"
+1755528394857,,,,suggestion_shown,"zys",
+1755528402104,,,,reject_clicked,"zys","1  Moderately less frequent"
+1755528419631,3,,0,submit,,

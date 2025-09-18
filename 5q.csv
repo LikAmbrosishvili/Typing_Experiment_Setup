@@ -1,0 +1,96 @@
+unix_timestamp,adversity,suggestion_preference,suggestion_relevance,event_type,suggestion_text,suggestion_rating
+1755683485228,,,,suggestion_shown,"e",
+1755683505234,,,,suggestion_shown,"la kt",
+1755683553071,4,,2,submit,,
+1755683565266,,,,suggestion_shown,"z tych,",
+1755683597996,,,,accept_clicked,"z tych,","3  About the same"
+1755683605270,,,,suggestion_shown,"rym nie w",
+1755683621202,,,,accept_clicked,"rym nie w","3  About the same"
+1755683625282,,,,suggestion_shown,"licza,",
+1755683640163,,,,accept_clicked,"licza,","2  Slightly less frequent"
+1755683667327,2,,5,submit,,
+1755683685316,,,,suggestion_shown,",",
+1755683693380,,,,accept_clicked,",","3  About the same"
+1755683719863,3,,5,submit,,
+1755683725326,,,,suggestion_shown,"lla",
+1755683731421,,,,accept_clicked,"lla","3  About the same"
+1755683745333,,,,suggestion_shown,"i",
+1755683756137,,,,accept_clicked,"i","2  Slightly less frequent"
+1755683777087,3,,5,submit,,
+1755683805365,,,,suggestion_shown,"yc",
+1755683823180,,,,accept_clicked,"yc","2  Slightly less frequent"
+1755683831207,3,,5,submit,,
+1755683845378,,,,suggestion_shown,"plemię",
+1755683856336,,,,accept_clicked,"plemię","2  Slightly less frequent"
+1755683865381,,,,suggestion_shown,"szeteczn",
+1755683871954,,,,accept_clicked,"szeteczn","1  Moderately less frequent"
+1755683894318,3,,6,submit,,
+1755683905388,,,,suggestion_shown,"z grodów",
+1755683918279,,,,accept_clicked,"z grodów","1  Moderately less frequent"
+1755683925396,,,,suggestion_shown,"g",
+1755683933397,,,,accept_clicked,"g","0  Much less frequent"
+1755683953071,3,,6,submit,,
+1755683965416,,,,suggestion_shown,"ńc",
+1755683978692,,,,accept_clicked,"ńc","3  About the same"
+1755683985425,,,,suggestion_shown,"riu",
+1755683997301,,,,accept_clicked,"riu","1  Moderately less frequent"
+1755684013304,3,,6,submit,,
+1755684025439,,,,suggestion_shown,"ją do piek",
+1755684033147,,,,accept_clicked,"ją do piek","3  About the same"
+1755684078472,3,,6,submit,,
+1755684085466,,,,suggestion_shown,"zazdroś",
+1755684095280,,,,accept_clicked,"zazdroś","1  Moderately less frequent"
+1755684105477,,,,suggestion_shown,"ś",
+1755684112712,,,,accept_clicked,"ś","2  Slightly less frequent"
+1755684133359,3,,6,submit,,
+1755684145496,,,,suggestion_shown,"ła.",
+1755684151709,,,,accept_clicked,"ła.","2  Slightly less frequent"
+1755684165501,,,,suggestion_shown,"ę dla twoj",
+1755684176555,,,,accept_clicked,"ę dla twoj","2  Slightly less frequent"
+1755684195119,3,,6,submit,,
+1755684225524,,,,suggestion_shown,"n",
+1755684235040,,,,reject_clicked,"n","2  Slightly less frequent"
+1755684254503,3,,5,submit,,
+1755684265542,,,,suggestion_shown,"ę",
+1755684269180,,,,ignored_no_reveal_pref_prompt_dismissed,"ę",
+1755684285546,,,,suggestion_shown,"e",
+1755684297453,,,,reveal_dismissed_pref_prompt_dismissed,"e",
+1755684301645,,,,reject_clicked,"e","2  Slightly less frequent"
+1755684318298,4,,4,submit,,
+1755684325569,,,,suggestion_shown,"ewo",
+1755684342533,,,,reject_clicked,"ewo","2  Slightly less frequent"
+1755684345583,,,,suggestion_shown,"odni",
+1755684376168,4,,4,submit,,
+1755684385604,,,,suggestion_shown,"iem",
+1755684396917,,,,accept_clicked,"iem","1  Moderately less frequent"
+1755684405609,,,,suggestion_shown,"I p",
+1755684414732,,,,accept_clicked,"I p","1  Moderately less frequent"
+1755684432479,4,,5,submit,,
+1755684445626,,,,suggestion_shown,"przez k",
+1755684456525,,,,accept_clicked,"przez k","1  Moderately less frequent"
+1755684465634,,,,suggestion_shown,"w",
+1755684473466,,,,accept_clicked,"w","1  Moderately less frequent"
+1755684491503,3,,6,submit,,
+1755684505651,,,,suggestion_shown,"cz po",
+1755684511197,,,,accept_clicked,"cz po","1  Moderately less frequent"
+1755684525654,,,,suggestion_shown,"z rozpac",
+1755684535870,,,,accept_clicked,"z rozpac","1  Moderately less frequent"
+1755684553544,4,,4,submit,,
+1755684565659,,,,suggestion_shown,"zpaczy wy",
+1755684579340,,,,accept_clicked,"zpaczy wy","1  Moderately less frequent"
+1755684585668,,,,suggestion_shown,"zykiem,",
+1755684590668,,,,accept_clicked,"zykiem,","1  Moderately less frequent"
+1755684612327,4,,5,submit,,
+1755684625700,,,,suggestion_shown,"po",
+1755684631470,,,,accept_clicked,"po","1  Moderately less frequent"
+1755684645704,,,,suggestion_shown,"ępi",
+1755684652287,,,,reject_clicked,"ępi","1  Moderately less frequent"
+1755684673391,5,,4,submit,,
+1755684705731,,,,suggestion_shown,"r",
+1755684713174,,,,accept_clicked,"r","1  Moderately less frequent"
+1755684733142,4,,5,submit,,
+1755684745742,,,,suggestion_shown,"sw",
+1755684750988,,,,accept_clicked,"sw","1  Moderately less frequent"
+1755684765746,,,,suggestion_shown,"ęce,",
+1755684772780,,,,accept_clicked,"ęce,","1  Moderately less frequent"
+1755684793991,3,,5,submit,,
